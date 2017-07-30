@@ -1,3 +1,9 @@
+body {
+	width: 100%; 
+	height: 50px; 
+	background-color: #8ed4ff;
+}
+
 h1 {
 	color: bisque;
 }
